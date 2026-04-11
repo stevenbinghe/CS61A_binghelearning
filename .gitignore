@@ -28,3 +28,9 @@ ENV/
 .DS_Store?
 ._*
 Thumbs.db
+
+
+hog.ok
+ok
+tests/
+*.spec
