@@ -15,9 +15,9 @@ ENV/
 *.swp
 
 # OK Client
-.ok_history
-.ok_messages
-.ok_storage*
+**/.ok_history
+**/.ok_messages
+**/.ok_storage*
 
 # Logs and databases
 *.log
@@ -30,7 +30,7 @@ ENV/
 Thumbs.db
 
 
-hog.ok
-ok
-tests/
-*.spec
+**/hog.ok
+**/ok
+Project_1_Hog/tests/
+Project_1_Hog/*.spec
