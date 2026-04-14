@@ -4,6 +4,7 @@ __pycache__/
 *.so
 .Python
 
+
 # Virtual Environment
 venv/
 env/
@@ -30,7 +31,7 @@ ENV/
 Thumbs.db
 
 
-**/hog.ok
-**/ok
-Project_1_Hog/tests/
+*.ok
+ok
+tests/
 Project_1_Hog/*.spec
