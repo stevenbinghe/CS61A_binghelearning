@@ -1,6 +1,6 @@
 <div align="center">
 
-## [Project1:Hog](/Project_2_Cats/)
+## [Project2:Cats](/Project_2_Cats/)
 
 > *这就是一个比打字速度的游戏*
 

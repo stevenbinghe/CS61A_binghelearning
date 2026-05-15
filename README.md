@@ -28,10 +28,17 @@ CS61A学习过程中中产生的垃圾代码<br>
 ## 项目介绍
 
 ### [Project1:Hog](/Project_1_Hog/)
-
-[查看说明](/Project_1_Hog/README.md)
+这就是一个丢骰子的游戏
+[点击查看说明](/Project_1_Hog/README.md)
 
 ### [Project2:Cats](/Project_2_Cats/)
+这就是一个比打字速度的游戏
+[点击查看说明](/Project_2_Cats/README.md)
 
-[查看说明](/Project_2_Cats/README.md)
+### [Project3:Ants](/Project_3_Ants/)
+蚂蚁版植物大战僵尸
+[点击查看说明](/Project_3_Ants/README.md)
 
+### [Project4:Scheme](/Project_4_Scheme/)
+这是一个用python实现的scheme解释器
+[点击查看说明](/Project_4_Scheme/README.md)
